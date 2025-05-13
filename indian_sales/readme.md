@@ -14,13 +14,13 @@
 hex, row_nummber, 
 
 **Projects I followed:**  
-https://www.youtube.com/watch?v=JOrhcV3_NAk&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&index=7   
+https://www.youtube.com/watch?v=6pifKxjyHd8&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&index=4  
 
 
   
 Steps of the project and some details: 
 
-
+1. Data_cleaning 
 # Dealing with duplicates
 
 I did not incluse currency in the partition list as there is a negligeable likelihood of existing a row with the indentical values but in diffferent curruncy
@@ -34,5 +34,10 @@ In the culumn currency there are duplicates:
 removing duplicates from the table: 
 ![image](https://github.com/user-attachments/assets/c6cd162e-e478-44dd-afa6-23adbc9e7e35)
 
+
+
+Dealing with long queries: 
+
+![image](https://github.com/user-attachments/assets/f2a98143-de45-4d1d-81cf-54371a078069)
 
 
