@@ -1,4 +1,4 @@
-# power_bi_indain_sales
+# power_bi_indian_sales
 **Source:**  
 
 
@@ -30,5 +30,9 @@ However, according to the results of the query, there are rows which somehow dif
 
 In the culumn currency there are duplicates: 
 ![image](https://github.com/user-attachments/assets/a4f3d71b-298f-4177-aeaf-0542b6b840d8)
+
+removing duplicates from the table: 
+![image](https://github.com/user-attachments/assets/c6cd162e-e478-44dd-afa6-23adbc9e7e35)
+
 
 
