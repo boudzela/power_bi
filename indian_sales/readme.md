@@ -25,4 +25,7 @@ https://www.youtube.com/watch?v=6pifKxjyHd8&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz
    Initial: 
 
 ![image](https://github.com/user-attachments/assets/a6e597d7-deb4-429f-8592-96e2d908bfc9)
+adding one connection one-to-many from dates to transactions:  
+![image](https://github.com/user-attachments/assets/6327a05b-cdac-4733-88b3-346a70543cd5)
+
 
